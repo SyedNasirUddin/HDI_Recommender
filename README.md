@@ -18,5 +18,5 @@ python Hdi_recommender.py
 
 4-> Simple terminal output
 
-# Author
+# Author:
 Syed Nasir Uddin
