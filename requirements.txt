@@ -1,2 +1,4 @@
 ```txt
 pandas
+numpy
+scikit-learn
