@@ -1,0 +1,495 @@
+Continent,Country,Region,Year:2025
+Asia/Pacific,Afghanistan,North (Samangan Sar-e-Pul Balkh Jawzjan Faryab),0.4962000000000001
+Asia/Pacific,Afghanistan,Central Highlands (Bamyan Daikundi),0.4828
+Asia/Pacific,Afghanistan,South East (Ghazni Paktya Paktika Khost),0.48039999999999994
+Europe,Albania, Tirana,0.8267999999999999
+Europe,Albania, Vlore,0.8044
+Europe,Albania, Durres,0.7996000000000001
+Africa,Algeria,"Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)",0.7499999999999999
+Africa,Algeria,"Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)",0.747
+Africa,Algeria,"Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)",0.7322
+Africa,Angola, Luanda,0.6976000000000001
+Africa,Angola, Cabinda,0.6634
+Africa,Angola, Zaire,0.5928
+America,Argentina,Patagonia,0.8532
+America,Argentina,Cuyo,0.8508000000000001
+America,Argentina,Gran Buenos Aires,0.8508000000000001
+Europe,Armenia,Yerevan,0.8009999999999999
+Europe,Armenia,Kotayk,0.7712000000000001
+Europe,Armenia,Shirak,0.7612
+Asia/Pacific,Australia,Australian Capital Territory,0.9616
+Asia/Pacific,Australia,Western Australia,0.9517999999999998
+Asia/Pacific,Australia,New South Wales,0.9321999999999999
+Europe,Austria,Wien,0.9394
+Europe,Austria,Salzburg,0.9306000000000001
+Europe,Austria,Tirol,0.9223999999999999
+Europe,Azerbaijan,Baku,0.8192
+Europe,Azerbaijan,Absheron,0.7942
+Europe,Azerbaijan,Shaki Zaqatala,0.7558
+Asia/Pacific,Bangladesh, Dhaka,0.6748000000000001
+Asia/Pacific,Bangladesh," Barisal, Jhalokati, Pirojpur",0.646
+Asia/Pacific,Bangladesh," Gazipur, Narayanganj, Narsingdi",0.627
+America,Barbados,"St. James, St. George, and St. Thomas",0.8098000000000001
+America,Barbados,Christ Church and St. Philip,0.8032
+America,Barbados,St Michael,0.7888
+Europe,Belarus,Minsk region,0.8228
+Europe,Belarus,Grodno region,0.8084
+Europe,Belarus,Gomel region,0.8070000000000002
+Europe,Belgium,Bruxelles - Brussel,0.9438000000000001
+Europe,Belgium,Prov. Vlaams-Brabant,0.9408
+Europe,Belgium,Prov. Antwerpen,0.9368000000000001
+America,Belize,Belize,0.7458
+America,Belize,"Stann Creek, Toledo",0.7258
+America,Belize,"Corozal, Orange Walk",0.6868
+Africa,Benin,Atlantique (incl Littoral (Cotonou)),0.587
+Africa,Benin,Queme (incl Plateau),0.53
+Africa,Benin,Mono (incl Couffo),0.5040000000000002
+Asia/Pacific,Bhutan,Thimphu,0.7552000000000001
+Asia/Pacific,Bhutan,Paro,0.6842
+Asia/Pacific,Bhutan,Haa,0.6666000000000001
+America,Bolivia,Santa Cruz,0.7436000000000001
+America,Bolivia,Pando,0.7106
+America,Bolivia,Tarija,0.7086
+Europe,Bosnia and Herzegovina,Western herzegovina,0.7766
+Europe,Bosnia and Herzegovina,Central Bosnia,0.7566
+Europe,Bosnia and Herzegovina,Republica Srpska,0.7516
+Africa,Botswana,South-East,0.7626000000000001
+Africa,Botswana,North-East,0.704
+Africa,Botswana,Kgatleng,0.7
+America,Brazil,Distrito Federal,0.8133999999999999
+America,Brazil,Rio de Janeiro,0.7808
+America,Brazil,Sao Paulo,0.7778
+Europe,Bulgaria,Yugozapaden,0.8634000000000001
+Europe,Bulgaria,Severoiztochen,0.7934000000000001
+Europe,Bulgaria,Severen tsentralen,0.7876000000000001
+Africa,Burkina Faso,Centre (incl Ouagadougou),0.5436000000000001
+Africa,Burkina Faso,Hauts Bassins,0.44399999999999995
+Africa,Burkina Faso,Cascades,0.42000000000000004
+Africa,Burundi,"West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",0.4593999999999999
+Africa,Burundi,"South (Bururi, Makamba)",0.454
+Africa,Burundi,"Middle (Gitega, Karuzi, Muramvya, Mwaro)",0.4212000000000001
+Africa,Cabo Verde,Santiago- Praia,0.695
+Africa,Cabo Verde,S.Vicente,0.6840000000000002
+Africa,Cabo Verde,Fogo,0.666
+Asia/Pacific,Cambodia,Phnom Penh,0.6836
+Asia/Pacific,Cambodia,Takaev,0.5905999999999999
+Asia/Pacific,Cambodia,Bat Dambang-Krong Pailin,0.5835999999999999
+Africa,Cameroon,Littoral (incl Douala),0.6696000000000002
+Africa,Cameroon,Centre (incl Yaounde),0.6432
+Africa,Cameroon,Sud Ouest,0.6225999999999999
+America,Canada,Alberta,0.9470000000000001
+America,Canada,British Columbia,0.9338000000000003
+America,Canada,Ontario,0.9324
+Africa,Central African Republic,Bangui,0.4922000000000001
+Africa,Central African Republic,"RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi, Ouaka)",0.35940000000000005
+Africa,Central African Republic,"RS IV (Haute-Kotto, Baminigui Bangoran, Vakaga)",0.3423999999999999
+Africa,Chad,Zone 1 (N'Djamena),0.53
+Africa,Chad,Zone 6 (Mayo-Kebbi Est and Ouest),0.42899999999999994
+Africa,Chad,"Zone 8 (Mandoul, Moyen-Chari, Bahr Koh, Lac Iro)",0.41899999999999993
+America,Chile,Region Metropolitana,0.8756
+America,Chile,Tarapaca (incl Arica and Parinacota),0.8746
+America,Chile,Antofagasta,0.8684
+Asia/Pacific,China,Beijing,0.8712
+Asia/Pacific,China,Shanghai,0.8454
+Asia/Pacific,China,Tianjin,0.813
+America,Colombia,Bogota D.C.,0.8022
+America,Colombia,Valle (incl Cali),0.7796
+America,Colombia,San Andres,0.7786
+Africa,Comoros,Grande Comore (Ngazidja),0.5715999999999999
+Africa,Comoros,Moheli,0.5568
+Africa,Comoros,Anjouan (Ndzouani),0.534
+Africa,"Congo, Dem. Rep.",Kinshasa,0.5833999999999999
+Africa,"Congo, Dem. Rep.",Nord-Kivu,0.4612
+Africa,"Congo, Dem. Rep.",Bas-Congo,0.4514
+Africa,"Congo, Rep.", Brazzaville,0.6648000000000002
+Africa,"Congo, Rep.", Pointe Noire,0.6562000000000001
+Africa,"Congo, Rep.", Cuvette,0.5780000000000001
+America,Costa Rica,Heredia,0.8200000000000001
+America,Costa Rica,San Jose,0.8076000000000001
+America,Costa Rica,Cartago,0.7944000000000001
+Africa,Cote d'Ivoire,Yamoussoukro,0.6152
+Africa,Cote d'Ivoire,Abidjan,0.5694000000000001
+Africa,Cote d'Ivoire,Lagunes,0.5298000000000002
+Europe,Croatia,City of Zagreb,0.9012
+Europe,Croatia,County of Primorje-Gorski Kotar,0.8702
+Europe,Croatia,County of Istria,0.8602000000000001
+America,Cuba,C. Habana,0.8104000000000001
+America,Cuba,Matanzas,0.7762
+America,Cuba,Isla,0.7750000000000001
+Europe,Czechia,Praha,0.9610000000000001
+Europe,Czechia,Jihovychod,0.8997999999999999
+Europe,Czechia,Jihozapad,0.8764000000000001
+Europe,Denmark,Hovedstaden,0.9547999999999996
+Europe,Denmark,Midtjylland,0.9298000000000002
+Europe,Denmark,Syddanmark,0.9263999999999999
+Africa,Djibouti,Djibouti,0.476
+Africa,Djibouti,Other Districts,0.4284
+America,Dominican Republic,"Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",0.7520000000000001
+America,Dominican Republic,"Region II (Espaillat, Puerto Plata, Santiago)",0.7404
+America,Dominican Republic,"Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",0.7345999999999999
+America,Ecuador,Sierra,0.7756000000000002
+America,Ecuador,Coste,0.76
+America,Ecuador,Oriente,0.7259999999999999
+Africa,"Egypt, Arab Rep.",Port Said,0.7552000000000001
+Africa,"Egypt, Arab Rep.",Suez,0.7422000000000001
+Africa,"Egypt, Arab Rep.",Alexandria,0.7386
+America,El Salvador,Central I,0.7000000000000001
+America,El Salvador,Occidental,0.6344000000000001
+America,El Salvador,Central II,0.6314
+Africa,Equatorial Guinea,"Annobon, Bioko",0.7756000000000001
+Africa,Equatorial Guinea,Litoral,0.685
+Africa,Equatorial Guinea,Kie Ntem,0.5768
+Africa,Eritrea,Maekel,0.6576000000000001
+Africa,Eritrea,Debubawi Keih Bahri,0.47800000000000004
+Africa,Eritrea,Debub,0.45680000000000004
+Europe,Estonia,Pohja-Eesti,0.923
+Europe,Estonia,Louna-Eesti,0.8530000000000001
+Europe,Estonia,Kirde-Eesti,0.8452
+Africa,Eswatini,Hhohho,0.6
+Africa,Eswatini,Manzini,0.57
+Africa,Eswatini,Lubombo,0.5608
+Africa,Ethiopia,Addis,0.6678000000000001
+Africa,Ethiopia,Harari,0.5488000000000002
+Africa,Ethiopia,Dire Dawa,0.5384
+Asia/Pacific,Fiji,Rewa,0.7358
+Asia/Pacific,Fiji,Naitasiri,0.7350000000000001
+Asia/Pacific,Fiji,Ba,0.7202000000000001
+Europe,Finland,Helsinki-Uusimaa,0.9501999999999999
+Europe,Finland,Aland,0.9272000000000002
+Europe,Finland,Lansi-Suomi,0.9228000000000002
+Europe,France,Ile de France,0.9381999999999999
+Europe,France,Rhone-Alpes,0.9026
+Europe,France,Midi-Pyrenees,0.9000000000000001
+Africa,Gabon,Libreville-Port Gentil,0.7140000000000001
+Africa,Gabon,Estuaire,0.6874
+Africa,Gabon,Haut Ogooue,0.6694000000000001
+Africa,"Gambia, The",Banjul,0.5438000000000001
+Africa,"Gambia, The",Kanifing,0.5362
+Africa,"Gambia, The",Brikama,0.4936
+Europe,Georgia,Tbilisi,0.8326
+Europe,Georgia,Ajaria,0.7986000000000001
+Europe,Georgia,Imereti Racha-Lochkhumi Kvemo Svaneti,0.7906000000000001
+Europe,Germany,Hamburg,0.9715999999999999
+Europe,Germany,Baden-Wurttemberg,0.9570000000000001
+Europe,Germany,Bremen,0.9517999999999998
+Africa,Ghana,Greater Accra,0.6500000000000001
+Africa,Ghana,Western,0.6094
+Africa,Ghana,Ashanti,0.5952000000000001
+Europe,Greece,Attiki,0.9018000000000003
+Europe,Greece,Dytiki Makedonia,0.8800000000000001
+Europe,Greece,Kriti,0.8699999999999999
+America,Guatemala,Metropolitan,0.7242
+America,Guatemala,Central,0.6416000000000001
+America,Guatemala,North-Oriental,0.6224000000000001
+Africa,Guinea,Conakry,0.6326
+Africa,Guinea,Boke,0.44259999999999994
+Africa,Guinea,N Zerekore,0.42960000000000004
+Africa,Guinea-Bissau,Bissau,0.5601999999999999
+Africa,Guinea-Bissau,Biombo,0.47539999999999993
+Africa,Guinea-Bissau,Cacheu,0.46160000000000007
+America,Guyana,Upper Demerara-Berbice,0.7069999999999999
+America,Guyana,Demerara-Mahaica,0.7043999999999999
+America,Guyana,Mahaica-Berbice,0.6828000000000001
+America,Haiti,West (incl Metropolitain area),0.5801999999999999
+America,Haiti,North,0.5600000000000003
+America,Haiti,North-West,0.5414
+America,Honduras,Francisco Morazan,0.6696000000000001
+America,Honduras,Cortes,0.6472
+America,Honduras,Islas de la Bahia,0.6328
+Europe,Hungary,Kozep-Magyarorszag,0.9200000000000002
+Europe,Hungary,Nyugat-Dunantul,0.8592000000000001
+Europe,Hungary,Kozep-Dunantul,0.8373999999999999
+Asia/Pacific,India,Goa,0.748
+Asia/Pacific,India,Kerala,0.7464
+Asia/Pacific,India,Puducherry,0.7235999999999999
+Asia/Pacific,Indonesia,DKI Jakarta,0.7574000000000001
+Asia/Pacific,Indonesia,DI Yogyakarta,0.7468
+Asia/Pacific,Indonesia,East Kalimantan,0.7243999999999999
+Asia/Pacific,"Iran, Islamic Rep.",Tehran and Alborz,0.8178000000000001
+Asia/Pacific,"Iran, Islamic Rep.",Esfahan,0.8137999999999999
+Asia/Pacific,"Iran, Islamic Rep.",Mazandaran,0.8068
+Asia/Pacific,Iraq,Suleimaniya,0.6770000000000002
+Asia/Pacific,Iraq,Baghdad,0.6768
+Asia/Pacific,Iraq,Dohouk,0.6618
+Europe,Ireland,Dublin,0.9425999999999999
+Europe,Ireland,South-West,0.9305999999999999
+Europe,Ireland,Mid-East,0.9076000000000001
+Europe,Italy,Provincia Autonoma di Trento,0.9139999999999999
+Europe,Italy,Emilia-Romagna,0.9085999999999999
+Europe,Italy,Lazio,0.9054000000000002
+America,Jamaica,"Kingston, St Andrew",0.7326
+America,Jamaica,"St Ann, St Catherine",0.7237999999999999
+America,Jamaica,"Manchester, Clarendon",0.7088
+Asia/Pacific,Japan,"Southern-Kanto (Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano)",0.9398
+Asia/Pacific,Japan,"Kansai region (Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama)",0.9152000000000001
+Asia/Pacific,Japan,"Toukai (Gifu, Shizuoka, Aichi, Mie)",0.9127999999999998
+Asia/Pacific,Jordan,Amman,0.7516
+Asia/Pacific,Jordan,Karak,0.7418000000000001
+Asia/Pacific,Jordan,Aqaba,0.737
+Asia/Pacific,Kazakhstan,Almaty city,0.8264000000000001
+Asia/Pacific,Kazakhstan,Central region (Karagandinskaya),0.8168000000000001
+Asia/Pacific,Kazakhstan,"North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",0.8106
+Africa,Kenya,Nairobi,0.6342000000000001
+Africa,Kenya,Central,0.6096
+Africa,Kenya,Rift Valley,0.5665999999999999
+Asia/Pacific,Kiribati,Souyth Tarawa,0.6494000000000001
+Asia/Pacific,Kiribati,Line and Phoenix Group,0.5988
+Asia/Pacific,Kiribati,Northern Gilbert,0.5908
+Asia/Pacific,"Korea, Rep.",Capital Region,0.9350000000000002
+Asia/Pacific,"Korea, Rep.",Gyeongnam Region,0.9122
+Asia/Pacific,"Korea, Rep.",Jeju,0.8925999999999998
+Europe,Kosovo,Pristina,0.7594
+Europe,Kosovo,Mitrovica,0.757
+Europe,Kosovo,Ferizaj,0.7534000000000001
+Asia/Pacific,Kuwait,Ahmadi,0.8328
+Asia/Pacific,Kuwait,"Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah",0.8221999999999999
+Asia/Pacific,Kuwait,Al-Jahra,0.8131999999999998
+Asia/Pacific,Kyrgyz Republic,Bishkek,0.7432000000000001
+Asia/Pacific,Kyrgyz Republic,Chuy,0.6985999999999999
+Asia/Pacific,Kyrgyz Republic,Talas,0.6832
+Asia/Pacific,Lao PDR,Vientiane Municipality,0.7476
+Asia/Pacific,Lao PDR,Borikhamxay,0.6477999999999999
+Asia/Pacific,Lao PDR,Vientiane Province,0.6454
+Europe,Latvia,Riga region,0.9172
+Europe,Latvia,Pieriga region,0.8704000000000001
+Europe,Latvia,Kurzeme region,0.8470000000000001
+Asia/Pacific,Lebanon,Beqaa,0.7832
+Asia/Pacific,Lebanon,"Southern, Nabtieh",0.7726
+Asia/Pacific,Lebanon,Mount Lebanon,0.7542
+Africa,Lesotho,Maseru,0.5388
+Africa,Lesotho,Berea,0.5386
+Africa,Lesotho,Butha-Buthe,0.5132000000000001
+Africa,Liberia,Montserrado,0.5386000000000001
+Africa,Liberia,Margibi,0.46979999999999994
+Africa,Liberia,Nimba,0.46939999999999993
+Africa,Libya,Tripolitania,0.7543999999999998
+Africa,Libya,Fezzan,0.7474000000000001
+Africa,Libya,Cyrenaica,0.7394000000000001
+Europe,Lithuania,Vilnius County,0.8997999999999999
+Europe,Lithuania,Kaunas County,0.8732
+Europe,Lithuania,Klaipeda County,0.8708
+Africa,Madagascar,Analamanga,0.6062000000000001
+Africa,Madagascar,Diana,0.5551999999999999
+Africa,Madagascar,Sava,0.5307999999999999
+Africa,Malawi,Blantyre,0.5647999999999999
+Africa,Malawi,"Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",0.5362
+Africa,Malawi,Mzimba,0.5344000000000001
+Asia/Pacific,Malaysia,Kuala Lumpur Federal Territory,0.8449999999999998
+Asia/Pacific,Malaysia,Selangor,0.841
+Asia/Pacific,Malaysia,Pulau Pinang,0.8230000000000001
+Asia/Pacific,Maldives,Male,0.7688
+Asia/Pacific,Maldives,South,0.6993999999999999
+Asia/Pacific,Maldives,South Central,0.6942
+Africa,Mali,Bamako,0.5846
+Africa,Mali,Koulikoro,0.4177999999999999
+Africa,Mali,Sikasso,0.3934
+Africa,Mauritania,Nouadhibou,0.6352000000000001
+Africa,Mauritania,Tiris-Zemmour,0.614
+Africa,Mauritania,Trarza incl Nouakchott,0.5929999999999999
+Africa,Mauritius,"South (Grand Port, Savanne, Plaines Wilhems, Black River)",0.7992
+Africa,Mauritius,"North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",0.7842000000000001
+Africa,Mauritius,Rodrigues,0.7081999999999999
+America,Mexico,Distrito Federal,0.8321999999999999
+America,Mexico,Baja California,0.8037999999999998
+America,Mexico,Nuevo Leon,0.8022
+Europe,Moldova,Chisinau,0.8160000000000001
+Europe,Moldova,South,0.745
+Europe,Moldova,North,0.7283999999999999
+Asia/Pacific,Mongolia,Ulaanbaatar,0.7940000000000002
+Asia/Pacific,Mongolia,"Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",0.7297999999999999
+Asia/Pacific,Mongolia,"Eastern (Dornod, Sukhbaatar, Khentii)",0.6923999999999999
+Europe,Montenegro,Centre,0.835
+Europe,Montenegro,South,0.8263999999999999
+Europe,Montenegro,North,0.8054
+Africa,Morocco,Centre,0.685
+Africa,Morocco,North west,0.67
+Africa,Morocco,Centre north,0.6530000000000001
+Africa,Mozambique,Maputo Cidade,0.6050000000000001
+Africa,Mozambique,Maputo Provincia,0.5388
+Africa,Mozambique,Inhambane,0.4744
+Asia/Pacific,Myanmar,Yangon,0.633
+Asia/Pacific,Myanmar,Kachin,0.593
+Asia/Pacific,Myanmar,Kayah,0.5818
+Africa,Namibia,Khomas,0.7113999999999999
+Africa,Namibia,Erongo,0.6738000000000002
+Africa,Namibia,Karas,0.6578000000000002
+Asia/Pacific,Nepal,Bagmati province,0.6180000000000001
+Asia/Pacific,Nepal,Gandaki province,0.5972
+Asia/Pacific,Nepal,Koshi province,0.5793999999999999
+Europe,Netherlands,Utrecht,0.953
+Europe,Netherlands,Noord-Holland,0.9496
+Europe,Netherlands,Zuid-Holland,0.9326000000000001
+Asia/Pacific,New Zealand,Wellington,0.9522000000000002
+Asia/Pacific,New Zealand,Auckland,0.9447999999999999
+Asia/Pacific,New Zealand,Taranaki,0.9387999999999999
+America,Nicaragua,"Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",0.6892000000000001
+America,Nicaragua,"Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",0.5986
+America,Nicaragua,"Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",0.5360000000000003
+Africa,Niger,Agadez,0.4614
+Africa,Niger,Tillabery (incl Niamey),0.4544
+Africa,Niger,Maradi,0.34840000000000004
+Africa,Nigeria,Abuja FCT,0.6608
+Africa,Nigeria,Lagos,0.6590000000000001
+Africa,Nigeria,Anambra,0.6506000000000001
+Europe,North Macedonia,Skopski,0.7962
+Europe,North Macedonia,Pelagoniski,0.7752000000000001
+Europe,North Macedonia,South West,0.7712000000000001
+Europe,Norway,Oslo og Akershus,0.9647999999999998
+Europe,Norway,Vestlandet,0.9534
+Europe,Norway,Trondelag,0.9469999999999998
+Asia/Pacific,Pakistan,Islamabad (ICT),0.6804
+Asia/Pacific,Pakistan,AJK,0.5892
+Asia/Pacific,Pakistan,Gilgit Baltistan,0.5358
+America,Panama,Panama,0.8304
+America,Panama,Colon,0.8084000000000001
+America,Panama,Chiriqui,0.7994
+Asia/Pacific,Papua New Guinea,National Capital District,0.7051999999999999
+Asia/Pacific,Papua New Guinea,Manus,0.5920000000000001
+Asia/Pacific,Papua New Guinea,East New Britain,0.581
+America,Paraguay,"Central (Asuncion, Central)",0.7718000000000002
+America,Paraguay,"South-East (Guaira, Misiones, Paraguari, Neembucu)",0.7232000000000001
+America,Paraguay,"South-West (Caazapa, Itapua)",0.7191999999999998
+America,Peru,"West (Ancash, Lima, Callao)",0.8133999999999999
+America,Peru,"South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",0.7764000000000001
+America,Peru,"North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",0.7254
+Asia/Pacific,Philippines,National Capital Region,0.7514
+Asia/Pacific,Philippines,IVA-CALABARZON,0.723
+Asia/Pacific,Philippines,Cordillera Admin Region,0.7202000000000001
+Europe,Poland,Mazowieckie,0.9176
+Europe,Poland,Dolnoslaskie,0.8806
+Europe,Poland,Wielkopolskie,0.8781999999999999
+Europe,Portugal,Area Metropolitana de Lisboa,0.8886000000000001
+Europe,Portugal,Centro,0.8403999999999998
+Europe,Portugal,Algarve,0.8338000000000001
+Europe,Romania,Bucuresti,0.9136
+Europe,Romania,Vest,0.8158
+Europe,Romania,Centru,0.8078000000000001
+Europe,Russian Federation,The Central Federal District,0.8366
+Europe,Russian Federation,The North West Federal District,0.8264000000000001
+Europe,Russian Federation,The Urals  Federal District,0.8253999999999999
+Africa,Rwanda,City of Kigali,0.6020000000000001
+Africa,Rwanda,West,0.5032
+Africa,Rwanda,North,0.5018
+Asia/Pacific,Samoa,Apia Urban Area,0.76
+Asia/Pacific,Samoa,Rest of Upolu,0.7243999999999999
+Asia/Pacific,Samoa,North West Upolu,0.7219999999999999
+Africa,Sao Tome and Principe,Regiao Centro,0.6092000000000001
+Africa,Sao Tome and Principe,Regiao do Principe,0.5916
+Africa,Sao Tome and Principe,Regiao Sul,0.5552
+Asia/Pacific,Saudi Arabia,"Center (Riadh, Qassim)",0.8635999999999999
+Asia/Pacific,Saudi Arabia,"North (Northern Borders, Al Jawf, Hail)",0.8535999999999999
+Asia/Pacific,Saudi Arabia,"West (Makka, Madinah, Tabuk)",0.8356
+Africa,Senegal,Dakar,0.6066
+Africa,Senegal,Ziguinchor,0.5672000000000001
+Africa,Senegal,Thies,0.5446
+Europe,Serbia,Belgrade,0.8172
+Europe,Serbia,Vojvodina,0.7856000000000001
+Europe,Serbia,Sumadija and West Serbia,0.7826000000000001
+Africa,Sierra Leone,Western Urban,0.565
+Africa,Sierra Leone,Western Rural,0.48419999999999996
+Africa,Sierra Leone,Bo,0.462
+Europe,Slovak Republic,Bratislavsky kraj,0.9485999999999999
+Europe,Slovak Republic,Zapadne Slovensko,0.8408
+Europe,Slovak Republic,Stredne Slovensko,0.8288
+Europe,Slovenia,Osrednjeslovenska,0.9386000000000001
+Europe,Slovenia,Obalno-kraska,0.9052
+Europe,Slovenia,Gorenjska,0.9014000000000003
+Africa,Somalia,Banadir,0.4272
+Africa,Somalia,W Galbeed,0.4252000000000001
+Africa,Somalia,Sanaag,0.4161999999999999
+Africa,South Africa,Western Cape,0.7552000000000001
+Africa,South Africa,Gauteng,0.7444000000000001
+Africa,South Africa,Northern Province,0.7173999999999999
+Africa,South Sudan,Central Equatoria,0.4556000000000001
+Africa,South Sudan,Western Equatoria,0.4236000000000001
+Africa,South Sudan,Upper Nile,0.41899999999999993
+Europe,Spain,Comunidad de Madrid,0.9282
+Europe,Spain,Pais Vasco,0.9198000000000001
+Europe,Spain,Comunidad Foral de Navarra,0.9060000000000002
+America,St. Lucia,St Lucia rural,0.7333999999999999
+America,St. Lucia,St Lucia urban,0.7278
+Africa,Sudan,Khartoum,0.6314
+Africa,Sudan,Northern,0.6314
+Africa,Sudan,Nahr El Nil,0.6073999999999999
+America,Suriname,Paramaribo,0.7285999999999999
+America,Suriname,Wanica and Para,0.7102
+America,Suriname,"Nickerie, Coronie and Saramacca",0.7049999999999998
+Europe,Sweden,Stockholm,0.9607999999999999
+Europe,Sweden,Vastsverige,0.9348000000000001
+Europe,Sweden,Sydsverige,0.9294
+Europe,Switzerland,Zurich,0.9776
+Europe,Switzerland,Lake Geneva region,0.9559999999999997
+Europe,Switzerland,Ticino,0.9516
+Asia/Pacific,Syrian Arab Republic,Al Swida - Sweida,0.5948
+Asia/Pacific,Syrian Arab Republic,Al Latakia,0.5887999999999999
+Asia/Pacific,Syrian Arab Republic,Tartous,0.5848
+Asia/Pacific,Tajikistan,Duchanbe,0.724
+Asia/Pacific,Tajikistan,GBAO,0.6586000000000001
+Asia/Pacific,Tajikistan,Sughd (formerly Leninabad),0.6566
+Africa,Tanzania, Zanzibar West,0.6652
+Africa,Tanzania, Dar Es Salam,0.6047999999999999
+Africa,Tanzania, Kilimanjaro,0.5934
+Asia/Pacific,Thailand,Bangkok,0.8384
+Asia/Pacific,Thailand,Central,0.7962
+Asia/Pacific,Thailand,South,0.7802
+Asia/Pacific,Timor-Leste,Dili,0.7380000000000001
+Asia/Pacific,Timor-Leste,Liquica,0.6246
+Asia/Pacific,Timor-Leste,Manatuto,0.6202000000000001
+Africa,Togo,Lome,0.5902000000000001
+Africa,Togo,Maritime,0.5267999999999999
+Africa,Togo,Centrale,0.4944
+Asia/Pacific,Tonga,Tongatapu,0.7318
+Asia/Pacific,Tonga,Vava-u,0.7107999999999999
+Asia/Pacific,Tonga,Eua,0.6988000000000001
+America,Trinidad and Tobago,Central,0.8181999999999998
+America,Trinidad and Tobago,North West,0.8135999999999999
+America,Trinidad and Tobago,South West,0.8046000000000001
+Africa,Tunisia,"Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",0.7688
+Africa,Tunisia,"Centre Est (Sousse, Monastir, Mahdia, Sfax)",0.7262
+Africa,Tunisia,"Sud Ouest (Gafsa, Tozeur, Kebili)",0.7187999999999999
+Asia/Pacific,Turkiye,Istanbul,0.8413999999999999
+Asia/Pacific,Turkiye,"West Anatolia (Ankara, Konya, Karaman)",0.8345999999999998
+Asia/Pacific,Turkiye,"East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskiseh",0.8304
+Asia/Pacific,Turkmenistan,Ashgabat City,0.7614000000000001
+Asia/Pacific,Turkmenistan,Balkan,0.7406
+Asia/Pacific,Turkmenistan,Lebap,0.7278
+Asia/Pacific,Tuvalu,Funafuti,0.6696
+Africa,Uganda,Kampala,0.6364000000000001
+Africa,Uganda,Central 1 (Central South),0.5666
+Africa,Uganda,Central 2 (Central North),0.5360000000000003
+Europe,Ukraine,East,0.7749999999999999
+Europe,Ukraine,South,0.7735999999999998
+Europe,Ukraine,North,0.7710000000000001
+Europe,United Kingdom,London,0.9662
+Europe,United Kingdom,South East,0.9374000000000002
+Europe,United Kingdom,South West,0.9231999999999999
+America,United States,Massachusetts,0.9565999999999999
+America,United States,Connecticut,0.9549999999999998
+America,United States,Minnesota,0.95
+America,Uruguay,Montevideo and Metropolitan area,0.8221999999999999
+America,Uruguay,"Costa Este (Canelones, Maldonado and Rocha)",0.8082
+America,Uruguay,"Centro Sur (Flores, Florida and Lavalleja)",0.8052000000000001
+Asia/Pacific,Uzbekistan,Tashkent,0.7838
+Asia/Pacific,Uzbekistan,"Central-East (Dzhizak, Syrdarya)",0.7203999999999999
+Asia/Pacific,Uzbekistan,"West (Karakalpakstan, Khorezm)",0.6984
+Asia/Pacific,Vanuatu,Port Vila,0.6971999999999999
+Asia/Pacific,Vanuatu,Luganville,0.6828000000000001
+Asia/Pacific,Vanuatu,Shefa,0.5845999999999999
+America,"Venezuela, RB",Federal District,0.8133999999999999
+America,"Venezuela, RB",Miranda,0.7998000000000001
+America,"Venezuela, RB",Aragua,0.7938000000000001
+Asia/Pacific,Viet Nam,Red River Delta,0.7384000000000001
+Asia/Pacific,Viet Nam,South East,0.7266
+Asia/Pacific,Viet Nam,North Central Coast and South Central Coast,0.6980000000000001
+Asia/Pacific,West Bank and Gaza,Tulkarm,0.7272000000000001
+Asia/Pacific,West Bank and Gaza,Ramallah & Al-Bireh,0.7212
+Asia/Pacific,West Bank and Gaza,Tubas,0.7151999999999998
+Asia/Pacific,"Yemen, Rep.","Sana a (capital; Al Amana), Sana a (governorate)",0.5280000000000002
+Asia/Pacific,"Yemen, Rep.","Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",0.5162000000000001
+Asia/Pacific,"Yemen, Rep.","Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",0.5142
+Africa,Zambia,Lusaka,0.6408000000000001
+Africa,Zambia,Copperbelt,0.6392
+Africa,Zambia,Southern,0.5613999999999999
+Africa,Zimbabwe,Bulawayo,0.6496
+Africa,Zimbabwe,Harare,0.6236
+Africa,Zimbabwe,Midlands,0.5402000000000001
