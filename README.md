@@ -12,7 +12,7 @@ python Hdi_recommender.py
 # Features:
 1-> Recommends countries/regions with high HDI
 
-2-> Recommends where would people live peacefully conitnents countries cities are the outcoming sources
+2-> Recommends regions where people can live peacefully, using HDI data to identify top countries and cities.
 
 3-> Uses static CSV data
 
